@@ -1,0 +1,1 @@
+primeiras linhas do arquivo
